@@ -2,7 +2,8 @@
 base de datos para gestion de operacion de transporte
 
 # Caso Práctico: Gestión de Logística y Transporte
-## Contexto: Una empresa de logística y transporte gestiona el envío de mercancías desde múltiples almacenes a varios destinos. La empresa desea un sistema para optimizar y rastrear el movimiento de mercancías, el uso de vehículos y el desempeño de los conductores.
+## Contexto: 
+Una empresa de logística y transporte gestiona el envío de mercancías desde múltiples almacenes a varios destinos. La empresa desea un sistema para optimizar y rastrear el movimiento de mercancías, el uso de vehículos y el desempeño de los conductores.
 
 # Requerimientos del Sistema:
 
